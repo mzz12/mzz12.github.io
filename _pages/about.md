@@ -21,7 +21,7 @@ Hi, My name is Zizhao Mo (莫梓钊). I got my Ph.D. in Computer Science at Univ
 
 My research interest boardly revolves around the machine learning systems (MLSys), focusing on the scheduling, parallelization optimization, and resource management topics. I also have specific interest in designing efficient systems over heterogeneous resources, including CPU-GPU and heterogeneous GPUs platforms. 
 
-<b><font color="#f58b5e">I am currently on job market and welcome opportunities from both academia and industry. Please feel free to contact me!<\font><\b>
+<b><font color="#f58b5e">I am currently on job market and seek for opportunities from both academia and industry. Please feel free to contact me!<\font><\b>
 
 
 # 🔥 News
@@ -34,7 +34,7 @@ My research interest boardly revolves around the machine learning systems (MLSys
 - **Zizhao Mo**, Jianxiong Liao, Huanle Xu, Zhi Zhou, Chengzhong Xu
 - LLM serving
 
-[Fast and Fair Training for Deep Learning in Heterogeneous GPU Clusters](https://cds-macau.github.io/publication/conference-paper/fft/)
+[Fast and Fair Training for Deep Learning in Heterogeneous GPU Clusters](https://hpcrl.github.io/ICS2025-webpage/program/Proceedings_ICS25/ics25-42.pdf)
 - Accepted by **ICS' 25 (CCF-B)**, Top conference in supercomputing.
 - **Zizhao Mo**, Huanle Xu, Wing Cheong Lau
 
