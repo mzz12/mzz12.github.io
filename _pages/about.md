@@ -21,7 +21,7 @@ Hi, My name is Zizhao Mo (莫梓钊). I got my Ph.D. in Computer Science at Univ
 
 My research interest boardly revolves around the machine learning systems (MLSys), focusing on the scheduling, parallelization optimization, and resource management topics. I also have specific interest in designing efficient systems over heterogeneous resources, including CPU-GPU and heterogeneous GPUs platforms. 
 
-I am currently on job market and welcome opportunities from both academia and industry. Please feel free to contact me!
+<b><font color="#f58b5e">I am currently on job market and welcome opportunities from both academia and industry. Please feel free to contact me!<\font><\b>
 
 
 # 🔥 News
@@ -39,7 +39,7 @@ I am currently on job market and welcome opportunities from both academia and in
 - **Zizhao Mo**, Huanle Xu, Wing Cheong Lau
 
 [Heet: Accelerating Elastic Training in Heterogeneous Deep Learning Clusters](https://dl.acm.org/doi/10.1145/3620665.3640375)
-- Accepted by **ASPLOS' 24 (CCF-B)**, Top conference in system architecture.
+- Accepted by **ASPLOS' 24 (CCF-A)**, Top conference in system architecture.
 - **Zizhao Mo**, Huanle Xu, ChengZhong Xu
 
 [Optimal Resource Efficiency with Fairness in Heterogeneous GPU Clusters](https://dl.acm.org/doi/10.1145/3652892.3654792)
@@ -47,18 +47,19 @@ I am currently on job market and welcome opportunities from both academia and in
 - **Zizhao Mo**, Huanle Xu, Wing Cheong Lau
 
 [Derm: SLA-aware Resource Management for Highly Dynamic Microservices](https://ieeexplore.ieee.org/document/10609698)
-- Accepted by **ISCA' 24 (CCF-A)**.
+- Accepted by **ISCA' 24 (CCF-A)**, Top conference in system architecture.
 - Liao Chen, Shutian Luo, Chenyu Lin, **Zizhao Mo**, Huanle Xu, Kejiang Ye
 
 [Interference-aware Multiplexing for Deep Learning in GPU Clusters A Middleware Approach](https://dl.acm.org/doi/10.1145/3581784.3607060)
-- Accepted by **SC' 23 (CCF-A)**.
+- Accepted by **SC' 23 (CCF-A)**, Top conference in supercomputing.
 - Wenyan Chen, **Zizhao Mo**, Huanle Xu, Kejiang Ye, Chengzhong Xu
 
 # 🎖 Honors and Awards
-- *2021 - 2025* Ph.D. Scholarship. University of Macau. 
-- *2021* Arthur and Louis May Scholarship. Hong Kong University of Science and Technology. 
+- *2021 - 2025*: Ph.D. Scholarship. University of Macau. 
+- *2024*: Travel grant for ASPLOS'24. 
+- *2021*: Arthur and Louis May Scholarship. Hong Kong University of Science and Technology. 
 
 # 📖 Educations
-- *2021 - 2025*, Ph.D. in Computer Science, University of Macau.
-- *2020 - 2021*, MSc in Information Technology, Hong Kong University of Science and Technology.
-- *2014 - 2018*, B.Eng. in Software Engineering, South China University of Technology.
+- *2021 - 2025*: Ph.D. in Computer Science, University of Macau.
+- *2020 - 2021*: MSc in Information Technology, Hong Kong University of Science and Technology.
+- *2014 - 2018*: B.Eng. in Software Engineering, South China University of Technology.
