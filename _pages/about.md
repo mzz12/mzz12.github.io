@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, My name is Zizhao Mo (莫梓钊). I got my Ph.D. in Computer Science at University of Macau, where I was very fortunate to be advised by <a href="https://www.fst.um.edu.mo/personal/huanlexu/">Prof. Huanle Xu</a> at <a href="https://cds-macau.github.io/">Cloud and Distributed Systems Lab</a>. 
+Hi, my name is Zizhao Mo (莫梓钊). I received my Ph.D. degree in Computer Science from the University of Macau, where I was fortunate to be advised by <a href="https://www.fst.um.edu.mo/personal/huanlexu/">Prof. Huanle Xu</a> at <a href="https://cds-macau.github.io/">Cloud and Distributed Systems Lab</a>. 
 
-My research interest boardly revolves around the machine learning systems (MLSys), focusing on the scheduling, parallelization optimization, and resource management topics. I also have specific interest in designing efficient systems over heterogeneous resources, including CPU-GPU and heterogeneous GPUs platforms. 
+My research interests broadly revolve around machine learning systems (MLSys), focusing on scheduling, parallelization optimization, and resource management topics. I also have a specific interest in designing efficient systems over heterogeneous resources, including CPU-GPU and heterogeneous GPU platforms. 
 
-<b><font color="#f58b5e">I am currently on job market and seek for opportunities from both academia and industry. Please feel free to contact me!
+<b><font color="#f58b5e">I am currently on the job market and seeking opportunities from both academia and industry. Please feel free to contact me!
 
 
 # 🔥 News
@@ -31,7 +31,7 @@ My research interest boardly revolves around the machine learning systems (MLSys
 
 [Hetis: Serving LLMs in Heterogeneous GPU Clusters with Fine-grained and Dynamic Parallelism](https://cds-macau.github.io/publication/conference-paper/hetis/)
 - Accepted by **SC' 25 (CCF-A)** (to appear), Top conference in supercomputing.
-- **Zizhao Mo**, Jianxiong Liao, Huanle Xu, Zhi Zhou, Chengzhong Xu
+- **Zizhao Mo**, Jianxiong Liao, Huanle Xu, Zhi Zhou, Cheng-Zhong Xu
 
 [Fast and Fair Training for Deep Learning in Heterogeneous GPU Clusters](https://hpcrl.github.io/ICS2025-webpage/program/Proceedings_ICS25/ics25-42.pdf)
 - Accepted by **ICS' 25 (CCF-B)**, Top conference in supercomputing.
@@ -39,7 +39,7 @@ My research interest boardly revolves around the machine learning systems (MLSys
 
 [Heet: Accelerating Elastic Training in Heterogeneous Deep Learning Clusters](https://dl.acm.org/doi/10.1145/3620665.3640375)
 - Accepted by **ASPLOS' 24 (CCF-A)**, Top conference in system architecture.
-- **Zizhao Mo**, Huanle Xu, ChengZhong Xu
+- **Zizhao Mo**, Huanle Xu, Cheng-Zhong Xu
 
 [Optimal Resource Efficiency with Fairness in Heterogeneous GPU Clusters](https://dl.acm.org/doi/10.1145/3652892.3654792)
 - Accepted by **Middleware' 24 (CCF-B)**.
@@ -51,7 +51,7 @@ My research interest boardly revolves around the machine learning systems (MLSys
 
 [Interference-aware Multiplexing for Deep Learning in GPU Clusters A Middleware Approach](https://dl.acm.org/doi/10.1145/3581784.3607060)
 - Accepted by **SC' 23 (CCF-A)**, Top conference in supercomputing.
-- Wenyan Chen, **Zizhao Mo**, Huanle Xu, Kejiang Ye, Chengzhong Xu
+- Wenyan Chen, **Zizhao Mo**, Huanle Xu, Kejiang Ye, Cheng-Zhong Xu
 
 # 🎖 Honors and Awards
 - *2021 - 2025*: Ph.D. Scholarship. University of Macau. 
