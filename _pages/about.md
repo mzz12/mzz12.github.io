@@ -31,27 +31,27 @@ My research interests broadly revolve around machine learning systems (MLSys), f
 
 [Hetis: Serving LLMs in Heterogeneous GPU Clusters with Fine-grained and Dynamic Parallelism](https://cds-macau.github.io/publication/conference-paper/hetis/)
 - Accepted by **SC' 25 (CCF-A)** (to appear), Top conference in supercomputing.
-- **Zizhao Mo**, Jianxiong Liao, Huanle Xu, Zhi Zhou, Cheng-Zhong Xu
+- Authors: **Zizhao Mo**, Jianxiong Liao, Huanle Xu, Zhi Zhou, Cheng-Zhong Xu
 
 [Fast and Fair Training for Deep Learning in Heterogeneous GPU Clusters](https://hpcrl.github.io/ICS2025-webpage/program/Proceedings_ICS25/ics25-42.pdf)
 - Accepted by **ICS' 25 (CCF-B)**, Top conference in supercomputing.
-- **Zizhao Mo**, Huanle Xu, Wing Cheong Lau
+- Authors: **Zizhao Mo**, Huanle Xu, Wing Cheong Lau
 
 [Heet: Accelerating Elastic Training in Heterogeneous Deep Learning Clusters](https://dl.acm.org/doi/10.1145/3620665.3640375)
 - Accepted by **ASPLOS' 24 (CCF-A)**, Top conference in system architecture.
-- **Zizhao Mo**, Huanle Xu, Cheng-Zhong Xu
+- Authors: **Zizhao Mo**, Huanle Xu, Cheng-Zhong Xu
 
 [Optimal Resource Efficiency with Fairness in Heterogeneous GPU Clusters](https://dl.acm.org/doi/10.1145/3652892.3654792)
 - Accepted by **Middleware' 24 (CCF-B)**.
-- **Zizhao Mo**, Huanle Xu, Wing Cheong Lau
+- Authors: **Zizhao Mo**, Huanle Xu, Wing Cheong Lau
 
 [Derm: SLA-aware Resource Management for Highly Dynamic Microservices](https://ieeexplore.ieee.org/document/10609698)
 - Accepted by **ISCA' 24 (CCF-A)**, Top conference in system architecture.
-- Liao Chen, Shutian Luo, Chenyu Lin, **Zizhao Mo**, Huanle Xu, Kejiang Ye
+- Authors: Liao Chen, Shutian Luo, Chenyu Lin, **Zizhao Mo**, Huanle Xu, Kejiang Ye
 
 [Interference-aware Multiplexing for Deep Learning in GPU Clusters A Middleware Approach](https://dl.acm.org/doi/10.1145/3581784.3607060)
 - Accepted by **SC' 23 (CCF-A)**, Top conference in supercomputing.
-- Wenyan Chen, **Zizhao Mo**, Huanle Xu, Kejiang Ye, Cheng-Zhong Xu
+- Authors: Wenyan Chen, **Zizhao Mo**, Huanle Xu, Kejiang Ye, Cheng-Zhong Xu
 
 # 🎖 Honors and Awards
 - *2021 - 2025*: Ph.D. Scholarship. University of Macau. 
