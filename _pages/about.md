@@ -47,7 +47,7 @@ My research interests broadly revolve around machine learning systems (MLSys), f
 
 [Derm: SLA-aware Resource Management for Highly Dynamic Microservices](https://ieeexplore.ieee.org/document/10609698)
 - Accepted by **ISCA' 24 (CCF-A)**, Top conference in system architecture.
-- Authors: Liao Chen, Shutian Luo, Chenyu Lin, **Zizhao Mo**, Huanle Xu, Kejiang Ye
+- Authors: Liao Chen, Shutian Luo, Chenyu Lin, **Zizhao Mo**, Huanle Xu, Kejiang Ye, Cheng-Zhong Xu
 
 [Interference-aware Multiplexing for Deep Learning in GPU Clusters A Middleware Approach](https://dl.acm.org/doi/10.1145/3581784.3607060)
 - Accepted by **SC' 23 (CCF-A)**, Top conference in supercomputing.
