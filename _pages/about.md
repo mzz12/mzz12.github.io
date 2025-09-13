@@ -29,11 +29,11 @@ My research interests broadly revolve around machine learning systems (MLSys), f
 
 # 📝 Publications 
 
-[Hetis: Serving LLMs in Heterogeneous GPU Clusters with Fine-grained and Dynamic Parallelism](https://cds-macau.github.io/publication/conference-paper/hetis/)
-- Accepted by **SC' 25 (CCF-A)** (to appear), Top conference in supercomputing.
+[Hetis: Serving LLMs in Heterogeneous GPU Clusters with Fine-grained and Dynamic Parallelism](https://arxiv.org/pdf/2509.08309)
+- Accepted by **SC' 25 (CCF-A)**, Top conference in supercomputing.
 - Authors: **Zizhao Mo**, Jianxiong Liao, Huanle Xu, Zhi Zhou, Cheng-Zhong Xu
 
-[Fast and Fair Training for Deep Learning in Heterogeneous GPU Clusters](https://hpcrl.github.io/ICS2025-webpage/program/Proceedings_ICS25/ics25-42.pdf)
+[Fast and Fair Training for Deep Learning in Heterogeneous GPU Clusters](https://dl.acm.org/doi/pdf/10.1145/3721145.3728488)
 - Accepted by **ICS' 25 (CCF-B)**, Top conference in supercomputing.
 - Authors: **Zizhao Mo**, Huanle Xu, Wing Cheong Lau
 
