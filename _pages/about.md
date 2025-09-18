@@ -21,7 +21,7 @@ Hi, my name is Zizhao Mo (莫梓钊). I received my Ph.D. degree in Computer Sci
 
 My research interests broadly revolve around machine learning systems (MLSys), focusing on scheduling, parallelization optimization, and resource management topics. I also have a specific interest in designing efficient systems over heterogeneous resources, including CPU-GPU and heterogeneous GPU platforms. 
 
-<b><font color="#f58b5e">I am currently on the job market and seeking opportunities from both academia and industry. Please feel free to contact me!
+<b><font color="#f58b5e">I am currently on the job market and seeking opportunities from academia. Please feel free to contact me!
 
 
 # 🔥 News
