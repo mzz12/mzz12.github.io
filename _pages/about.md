@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, my name is Zizhao Mo (莫梓钊). I received my Ph.D. degree in Computer Science from the University of Macau, where I was fortunate to be advised by <a href="https://www.fst.um.edu.mo/personal/huanlexu/">Prof. Huanle Xu</a> at <a href="https://cds-macau.github.io/">Cloud and Distributed Systems Lab</a>. 
 
-My research interests broadly revolve around machine learning systems (MLSys), focusing on scheduling, parallelization optimization, and resource management topics. I also have a specific interest in designing efficient systems over heterogeneous resources, including CPU-GPU and heterogeneous GPU platforms. 
+My research interests broadly revolve around machine learning systems (MLSys), focusing on scheduling, parallelization optimization, and resource management topics. The optimization goal of my research lies in the efficiency improvement for ML workloads, in terms of latency, cost, and throughput. I also have a specific interest in designing efficient systems over heterogeneous resources, including CPU-GPU and heterogeneous GPU platforms. 
 
 <b><font color="#f58b5e">I am currently on the job market and seeking opportunities from academia. Please feel free to contact me!
 
