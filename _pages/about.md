@@ -30,15 +30,15 @@ My research interests broadly revolve around machine learning systems (MLSys), f
 # 📝 Publications 
 
 [Hetis: Serving LLMs in Heterogeneous GPU Clusters with Fine-grained and Dynamic Parallelism](https://arxiv.org/pdf/2509.08309)
-- Accepted by **SC' 25 (CCF-A)**, Top conference in supercomputing.
+- Accepted by **SC' 25 (CCF-A, CSRanking)**, Top conference in supercomputing.
 - Authors: **Zizhao Mo**, Jianxiong Liao, Huanle Xu, Zhi Zhou, Cheng-Zhong Xu
 
 [Fast and Fair Training for Deep Learning in Heterogeneous GPU Clusters](https://dl.acm.org/doi/pdf/10.1145/3721145.3728488)
-- Accepted by **ICS' 25 (CCF-B)**, Top conference in supercomputing.
+- Accepted by **ICS' 25 (CCF-B, CSRanking)**, Top conference in supercomputing.
 - Authors: **Zizhao Mo**, Huanle Xu, Wing Cheong Lau
 
 [Heet: Accelerating Elastic Training in Heterogeneous Deep Learning Clusters](https://dl.acm.org/doi/10.1145/3620665.3640375)
-- Accepted by **ASPLOS' 24 (CCF-A)**, Top conference in system architecture.
+- Accepted by **ASPLOS' 24 (CCF-A, CSRanking)**, Top conference in system architecture.
 - Authors: **Zizhao Mo**, Huanle Xu, Cheng-Zhong Xu
 
 [Optimal Resource Efficiency with Fairness in Heterogeneous GPU Clusters](https://dl.acm.org/doi/10.1145/3652892.3654792)
@@ -46,11 +46,11 @@ My research interests broadly revolve around machine learning systems (MLSys), f
 - Authors: **Zizhao Mo**, Huanle Xu, Wing Cheong Lau
 
 [Derm: SLA-aware Resource Management for Highly Dynamic Microservices](https://ieeexplore.ieee.org/document/10609698)
-- Accepted by **ISCA' 24 (CCF-A)**, Top conference in system architecture.
+- Accepted by **ISCA' 24 (CCF-A, CSRanking)**, Top conference in system architecture.
 - Authors: Liao Chen, Shutian Luo, Chenyu Lin, **Zizhao Mo**, Huanle Xu, Kejiang Ye, Cheng-Zhong Xu
 
 [Interference-aware Multiplexing for Deep Learning in GPU Clusters A Middleware Approach](https://dl.acm.org/doi/10.1145/3581784.3607060)
-- Accepted by **SC' 23 (CCF-A)**, Top conference in supercomputing.
+- Accepted by **SC' 23 (CCF-A, CSRanking)**, Top conference in supercomputing.
 - Authors: Wenyan Chen, **Zizhao Mo**, Huanle Xu, Kejiang Ye, Cheng-Zhong Xu
 
 # 🎖 Honors and Awards
