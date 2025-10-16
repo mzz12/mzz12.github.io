@@ -58,7 +58,7 @@ My research interests broadly revolve around machine learning systems (MLSys), f
 - *2024*: Travel grant for ASPLOS'24. 
 - *2021*: Arthur and Louis May Scholarship. Hong Kong University of Science and Technology. 
 
-# 🔖 Academic activities
+# 🔖 Academic Activities
 Reviewers:
 - IEEE Transactions on Computers 
 - IEEE Transactions on Consumer Electronics
