@@ -21,6 +21,10 @@ Hi, my name is Zizhao Mo (莫梓钊). I received my Ph.D. degree in Computer Sci
 
 My research interests broadly revolve around machine learning systems (MLSys), focusing on scheduling, parallelization optimization, and resource management topics. The optimization goal of my research lies in the efficiency improvement for ML workloads, in terms of latency, cost, and throughput. I also have a specific interest in designing efficient systems over heterogeneous resources, including CPU-GPU and heterogeneous GPU platforms. 
 
+My research projects:
+- **Resource allocation in GPU clusters**. Designing fine-grained scheduling policies in the (heterogeneous) GPU cluster to optimize the performance and resource efficiency for deep learning training jobs. 
+- **LLM inference optimization**. Proposing optimization techniques for the LLM inference service, primarily focusing on the improvement of system-level metrics like throughput and latency.
+
 <b><font color="#f58b5e">I am currently on the job market and seeking opportunities from academia. Please feel free to contact me!
 
 
