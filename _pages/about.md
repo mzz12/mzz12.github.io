@@ -28,7 +28,7 @@ My research projects:
 
 
 # 🔥 News
-- *2026.01*: I will be giving a talk at Cloudflare virtually in March.
+- *2026.01*: I am invited to give a talk at <a href="https://www.cloudflare.com/">Cloudflare</a> in March.
 - *2025.06*: &nbsp;🎉🎉 I defense my Ph.D. thesis! 
 
 # 📝 Publications 
