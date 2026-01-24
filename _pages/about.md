@@ -64,9 +64,10 @@ My research projects:
 
 # 🔖 Academic Activities
 Reviewers:
-- IEEE Transactions on Computers 
+- IEEE Transactions on Computers (IEEE TC)
+- Transactions on Architecture and Code Optimization (ACM TACO)
+- Journal of Systems Architecture (JSA)
 - IEEE Transactions on Consumer Electronics
-- Journal of Systems Architecture
 
 # 📖 Educations
 - *2021 - 2025*: Ph.D. in Computer Science, University of Macau.
