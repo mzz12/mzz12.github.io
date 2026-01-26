@@ -66,6 +66,7 @@ My research projects:
 Reviewers:
 - IEEE Transactions on Computers (IEEE TC)
 - Transactions on Architecture and Code Optimization (ACM TACO)
+- Transactions on Services Computing (IEEE TSC)
 - Journal of Systems Architecture (JSA)
 - IEEE Transactions on Consumer Electronics
 
