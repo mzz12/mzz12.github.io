@@ -54,11 +54,11 @@ Serving Hybrid LLM Loads with SLO Guarantees Using CPU-GPU Attention Piggybackin
 - Authors: **Zizhao Mo**, Huanle Xu, Wing Cheong Lau
 
 [Derm: SLA-aware Resource Management for Highly Dynamic Microservices](https://ieeexplore.ieee.org/document/10609698)
-- Accepted by **ISCA' 24 (CCF-A, CSRanking)**, Top conference in system architecture.
+- Accepted by **ISCA' 24 (CCF-A, CSRanking)**.
 - Authors: Liao Chen, Shutian Luo, Chenyu Lin, **Zizhao Mo**, Huanle Xu, Kejiang Ye, Cheng-Zhong Xu
 
 [Interference-aware Multiplexing for Deep Learning in GPU Clusters A Middleware Approach](https://dl.acm.org/doi/10.1145/3581784.3607060)
-- Accepted by **SC' 23 (CCF-A, CSRanking)**, Top conference in supercomputing.
+- Accepted by **SC' 23 (CCF-A, CSRanking)**.
 - Authors: Wenyan Chen, **Zizhao Mo**, Huanle Xu, Kejiang Ye, Cheng-Zhong Xu
 
 # 🎖 Honors and Awards
