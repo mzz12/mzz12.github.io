@@ -33,11 +33,11 @@ My research projects:
 
 # 📝 Publications 
 
-[Serving Hybrid LLM Loads with SLO Guarantees Using CPU-GPU Attention Piggybacking]
-- Accepted by **Sigmod' 26 (CCF-A, CSRanking)**.
+Serving Hybrid LLM Loads with SLO Guarantees Using CPU-GPU Attention Piggybacking
+- Accepted by **Sigmod' 26 (CCF-A, CSRanking)**, (to appear).
 - Authors: **Zizhao Mo**, Junlin Chen, Huanle Xu, Cheng-Zhong Xu
 
-[Hetis: Serving LLMs in Heterogeneous GPU Clusters with Fine-grained and Dynamic Parallelism](https://arxiv.org/pdf/2509.08309)
+[Hetis: Serving LLMs in Heterogeneous GPU Clusters with Fine-grained and Dynamic Parallelism](https://dl.acm.org/doi/10.1145/3712285.3759784)
 - Accepted by **SC' 25 (CCF-A, CSRanking)**.
 - Authors: **Zizhao Mo**, Jianxiong Liao, Huanle Xu, Zhi Zhou, Cheng-Zhong Xu
 
