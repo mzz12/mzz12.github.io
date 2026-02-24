@@ -33,16 +33,20 @@ My research projects:
 
 # 📝 Publications 
 
+[Serving Hybrid LLM Loads with SLO Guarantees Using CPU-GPU Attention Piggybacking]
+- Accepted by **Sigmod' 26 (CCF-A, CSRanking)**.
+- Authors: **Zizhao Mo**, Junlin Chen, Huanle Xu, Cheng-Zhong Xu
+
 [Hetis: Serving LLMs in Heterogeneous GPU Clusters with Fine-grained and Dynamic Parallelism](https://arxiv.org/pdf/2509.08309)
-- Accepted by **SC' 25 (CCF-A, CSRanking)**, Top conference in supercomputing.
+- Accepted by **SC' 25 (CCF-A, CSRanking)**.
 - Authors: **Zizhao Mo**, Jianxiong Liao, Huanle Xu, Zhi Zhou, Cheng-Zhong Xu
 
 [Fast and Fair Training for Deep Learning in Heterogeneous GPU Clusters](https://dl.acm.org/doi/pdf/10.1145/3721145.3728488)
-- Accepted by **ICS' 25 (CCF-B, CSRanking)**, Top conference in supercomputing.
+- Accepted by **ICS' 25 (CCF-B, CSRanking)**.
 - Authors: **Zizhao Mo**, Huanle Xu, Wing Cheong Lau
 
 [Heet: Accelerating Elastic Training in Heterogeneous Deep Learning Clusters](https://dl.acm.org/doi/10.1145/3620665.3640375)
-- Accepted by **ASPLOS' 24 (CCF-A, CSRanking)**, Top conference in system architecture.
+- Accepted by **ASPLOS' 24 (CCF-A, CSRanking)**.
 - Authors: **Zizhao Mo**, Huanle Xu, Cheng-Zhong Xu
 
 [Optimal Resource Efficiency with Fairness in Heterogeneous GPU Clusters](https://dl.acm.org/doi/10.1145/3652892.3654792)
