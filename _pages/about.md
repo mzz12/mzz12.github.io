@@ -67,12 +67,14 @@ Serving Hybrid LLM Loads with SLO Guarantees Using CPU-GPU Attention Piggybackin
 - *2021*: Arthur and Louis May Scholarship. Hong Kong University of Science and Technology. 
 
 # 🔖 Academic Activities
-Reviewers:
+The reviewers of:
 - IEEE Transactions on Computers (IEEE TC)
 - Transactions on Architecture and Code Optimization (ACM TACO)
 - Transactions on Services Computing (IEEE TSC)
 - Journal of Systems Architecture (JSA)
 - IEEE Transactions on Consumer Electronics
+The program committee member of:
+- MLsys'26 AE 
 
 # 📖 Educations
 - *2021 - 2025*: Ph.D. in Computer Science, University of Macau.
