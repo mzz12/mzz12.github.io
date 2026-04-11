@@ -76,7 +76,8 @@ The reviewers of:
   
 The program committee member of:
 - IEEE/ACM Micro'26
-- MLsys'26 (Artifact evaluation) 
+- MLsys'26 (Artifact evaluation)
+- IJCAI-ECAI 2026 (AI4Tech workshop)
 
 # 📖 Educations
 - *2021 - 2025*: Ph.D. in Computer Science, University of Macau.
