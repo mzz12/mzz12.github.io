@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 Hi, my name is Zizhao Mo (莫梓钊). I received my Ph.D. degree in Computer Science from the University of Macau, where I was fortunate to be advised by <a href="https://www.fst.um.edu.mo/personal/huanlexu/">Prof. Huanle Xu</a> at <a href="https://cds-macau.github.io/">Cloud and Distributed Systems Lab</a>. 
@@ -33,8 +26,8 @@ My research projects:
 
 # 📝 Publications 
 
-Serving Hybrid LLM Loads with SLO Guarantees Using CPU-GPU Attention Piggybacking
-- Accepted by **Sigmod' 26 (CCF-A, CSRanking)**, (to appear).
+[Serving Hybrid LLM Loads with SLO Guarantees Using CPU-GPU Attention Piggybacking](https://dl.acm.org/doi/10.1145/3802107)
+- Accepted by **Sigmod' 26 (CCF-A, CSRanking)**.
 - Authors: **Zizhao Mo**, Junlin Chen, Huanle Xu, Cheng-Zhong Xu
 
 [Hetis: Serving LLMs in Heterogeneous GPU Clusters with Fine-grained and Dynamic Parallelism](https://dl.acm.org/doi/10.1145/3712285.3759784)
