@@ -68,8 +68,8 @@ The reviewers of:
 - IEEE Transactions on Consumer Electronics
   
 The program committee member of:
-- 2027: HPCA
-- 2026: IEEE/ACM Micro'26; MLsys (Artifact evaluation); IJCAI-ECAI (AI4Tech workshop)
+- *2027*: HPCA
+- *2026*: IEEE/ACM Micro; MLsys (Artifact evaluation); IJCAI-ECAI (AI4Tech workshop)
 
 # 📖 Educations
 - *2021 - 2025*: Ph.D. in Computer Science, University of Macau.
