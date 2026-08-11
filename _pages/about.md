@@ -21,6 +21,8 @@ My research projects:
 
 
 # 🔥 News
+- *2026.07*: Served as a TPC member of IEEE HPCA'27.
+- *2026.05*: Served as a TPC member of IEEE/ACM Micro'26.
 - *2026.03*: I give a talk at <a href="https://www.cloudflare.com/">Cloudflare</a> in March 3rd.
 - *2025.06*: &nbsp;🎉🎉 I defense my Ph.D. thesis! 
 
