@@ -21,6 +21,7 @@ My current research projects:
 
 
 # 🔥 News
+- *2026.08*: I will join Great Bay University as an Assistant Professor in September!
 - *2026.07*: Served as a TPC member of IEEE HPCA'27.
 - *2026.05*: Served as a TPC member of IEEE/ACM Micro'26.
 - *2026.03*: I give a talk at <a href="https://www.cloudflare.com/">Cloudflare</a> in March 3rd.
