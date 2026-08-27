@@ -12,9 +12,9 @@ redirect_from:
 
 Hi, my name is Zizhao Mo (莫梓钊). I received my Ph.D. degree in Computer Science from the University of Macau, where I was fortunate to be advised by <a href="https://www.fst.um.edu.mo/personal/huanlexu/">Prof. Huanle Xu</a> at <a href="https://cds-macau.github.io/">Cloud and Distributed Systems Lab</a>. 
 
-My research interests broadly revolve around machine learning systems (MLSys), with a focus on scheduling, parallelization optimization, and resource management topics. The optimization goal of my research is to improve the efficiency of ML workloads in terms of latency, cost, and throughput. I also have a specific interest in designing efficient systems over heterogeneous resources, including CPU-GPU and heterogeneous GPU platforms. 
+My research interests broadly revolve around optimizing deep learning workloads in real-world systems, such as LLM training/inference and resource scheduling. The optimization goals of my research involve latency, cost, throughput, and energy, etc. I also have a specific interest in designing efficient systems over heterogeneous resources, including CPU-GPU and heterogeneous GPU platforms. 
 
-My research projects:
+My current research projects:
 - **LLM workload optimization**. Proposing optimization techniques for the LLM inference and training. I am interested in research problems such as latency optimization, throughput improvement, fault tolerance, and energy saving, etc. 
 - **Resource allocation in GPU clusters**. Designing fine-grained scheduling policies in the (heterogeneous) GPU cluster to optimize the performance and resource efficiency for deep learning training jobs. 
 
@@ -27,6 +27,11 @@ My research projects:
 - *2025.06*: &nbsp;🎉🎉 I defense my Ph.D. thesis! 
 
 # 📝 Publications 
+
+ETH: Data-Balanced Heterogeneous Pipeline Parallelism for Training Large Models
+- Accepted by **NSDI' 27 (CCF-A, CSRanking)** (to appear).
+- Authors: Mianjie Yu, Zhongmin Zhao, **Zizhao Mo**, Jianxiong Liao, Wenxuan Li, Yulin Qiao, Huanle Xu, Wenquan Yang, Yongqiang Yang, Zeren Li, Ruifeng Tang, Chengzhong Xu
+
 
 [Serving Hybrid LLM Loads with SLO Guarantees Using CPU-GPU Attention Piggybacking](https://dl.acm.org/doi/10.1145/3802107)
 - Accepted by **Sigmod' 26 (CCF-A, CSRanking)**.
