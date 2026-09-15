@@ -15,13 +15,13 @@ Hi, my name is Zizhao Mo (莫梓钊). I received my Ph.D. degree in Computer Sci
 My research interests broadly revolve around optimizing deep learning workloads in real-world systems, such as LLM training/inference and resource scheduling. The optimization goals of my research involve latency, cost, throughput, and energy, etc. I also have a specific interest in designing efficient systems over heterogeneous resources, including CPU-GPU and heterogeneous GPU platforms. 
 
 My current research projects:
-- **LLM workload optimization**. Proposing optimization techniques for the LLM inference and training. I am interested in research problems such as latency optimization, throughput improvement, fault tolerance, and energy saving, etc. 
+- **LLM system optimization**. Proposing optimization techniques for LLM inference and training. I am interested in research problems such as latency optimization, throughput improvement, fault tolerance, and energy saving, etc. 
 - **Resource allocation in GPU clusters**. Designing fine-grained scheduling policies in the (heterogeneous) GPU cluster to optimize the performance and resource efficiency for deep learning training jobs. 
 
 
 
 # 🔥 News
-- *2026.08*: I will join Great Bay University as an Assistant Professor in September!
+- *2026.09*: I joined Great Bay University as an Assistant Professor. Looking for self-motivated postdocs, PhDs, Masters, RAs, visiting students, and interns. Please email me if you're interested.
 - *2026.07*: Served as a TPC member of IEEE HPCA'27.
 - *2026.05*: Served as a TPC member of IEEE/ACM Micro'26.
 - *2026.03*: I give a talk at <a href="https://www.cloudflare.com/">Cloudflare</a> in March 3rd.
