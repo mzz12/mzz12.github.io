@@ -12,11 +12,11 @@ redirect_from:
 
 Hi, my name is Zizhao Mo (莫梓钊). I am currently an Assistant Professor at Great Bay University (大湾区大学). I received my Ph.D. degree in Computer Science from the University of Macau, where I was fortunate to be advised by <a href="https://www.fst.um.edu.mo/personal/huanlexu/">Prof. Huanle Xu</a> at <a href="https://cds-macau.github.io/">Cloud and Distributed Systems Lab</a>. 
 
-My research interests broadly revolve around optimizing deep learning applications, such as training/inference workloads for LLMs, VLAs, multimodal intelligence, and embodied intelligence. The optimization goal of my research is to improve infrastructure performance, including latency, cost, throughput, and energy, etc. I also have a specific interest in designing efficient systems over heterogeneous resources, including CPU-GPU and heterogeneous GPU platforms. 
+My research interests broadly revolve around optimizing AI applications, such as training/inference workloads for LLMs, VLAs, multimodal intelligence, and embodied intelligence. My research aims to improve infrastructure performance, including latency, cost, throughput, and energy. I also have a specific interest in designing efficient systems over heterogeneous resources, including CPU-GPU and heterogeneous GPU platforms. 
 
 
 # 🔥 News
-- *2026.09*: I joined Great Bay University as an Assistant Professor. Looking for self-motivated postdocs, PhDs, Masters, RAs, visiting students, and interns. Please email me if you're interested.
+- *2026.09*: I joined Great Bay University as an Assistant Professor. Looking for researchers at multiple levels (e.g., RAs and visiting students). Please email me if you're interested.
 - *2026.07*: Served as a TPC member of IEEE HPCA'27.
 - *2026.05*: Served as a TPC member of IEEE/ACM Micro'26.
 - *2026.03*: I give a talk at <a href="https://www.cloudflare.com/">Cloudflare</a> in March 3rd.
