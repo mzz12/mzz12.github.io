@@ -10,14 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Zizhao Mo (莫梓钊). I received my Ph.D. degree in Computer Science from the University of Macau, where I was fortunate to be advised by <a href="https://www.fst.um.edu.mo/personal/huanlexu/">Prof. Huanle Xu</a> at <a href="https://cds-macau.github.io/">Cloud and Distributed Systems Lab</a>. 
+Hi, my name is Zizhao Mo (莫梓钊). I am currently an Assistant Professor at Great Bay University (大湾区大学). I received my Ph.D. degree in Computer Science from the University of Macau, where I was fortunate to be advised by <a href="https://www.fst.um.edu.mo/personal/huanlexu/">Prof. Huanle Xu</a> at <a href="https://cds-macau.github.io/">Cloud and Distributed Systems Lab</a>. 
 
-My research interests broadly revolve around optimizing deep learning workloads in real-world systems, such as LLM training/inference and resource scheduling. The optimization goals of my research involve latency, cost, throughput, and energy, etc. I also have a specific interest in designing efficient systems over heterogeneous resources, including CPU-GPU and heterogeneous GPU platforms. 
-
-My current research projects:
-- **LLM system optimization**. Proposing optimization techniques for LLM inference and training. I am interested in research problems such as latency optimization, throughput improvement, fault tolerance, and energy saving, etc. 
-- **Resource allocation in GPU clusters**. Designing fine-grained scheduling policies in the (heterogeneous) GPU cluster to optimize the performance and resource efficiency for deep learning training jobs. 
-
+My research interests broadly revolve around optimizing deep learning applications, such as training/inference workloads for LLMs, VLAs, multimodal intelligence, and embodied intelligence. The optimization goal of my research is to improve infrastructure performance, including latency, cost, throughput, and energy, etc. I also have a specific interest in designing efficient systems over heterogeneous resources, including CPU-GPU and heterogeneous GPU platforms. 
 
 
 # 🔥 News
