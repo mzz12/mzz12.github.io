@@ -18,12 +18,17 @@ My research interests broadly revolve around optimizing AI applications, such as
 # 🔥 News
 - *2026.09*: One paper is accepted by ATC'26.
 - *2026.09*: I joined Great Bay University as an Assistant Professor. Looking for researchers at multiple levels (e.g., Postdocs, PhDs, RAs and visiting students). Please email me if you're interested.
+- *2026.08*: One paper is accepted by NSDI'27.
 - *2026.07*: Served as a TPC member of IEEE HPCA'27.
 - *2026.05*: Served as a TPC member of IEEE/ACM Micro'26.
 - *2026.03*: I give a talk at <a href="https://www.cloudflare.com/">Cloudflare</a> in March 3rd.
 - *2025.06*: &nbsp;🎉🎉 I defense my Ph.D. thesis! 
 
 # 📝 Publications 
+
+Axon: Asynchronous Global KV-Aware Scheduling Across Distributed Instances for Agentic Workloads.
+- Accepted by **ATC' 26 (CCF-A, CSRanking)** (to appear).
+- Authors: Yuqi Qiu, Jinting Zou, **Zizhao Mo (Co-First author)**, Junlin Chen, Liao Chen, Huanle Xu, Guoyao Xu, Guodong Yang, Liping Zhang, Chengzhong Xu (2026).
 
 ETH: Data-Balanced Heterogeneous Pipeline Parallelism for Training Large Models
 - Accepted by **NSDI' 27 (CCF-A, CSRanking)** (to appear).
