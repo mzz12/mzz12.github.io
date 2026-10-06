@@ -28,7 +28,7 @@ My research interests broadly revolve around optimizing AI applications, such as
 
 Axon: Asynchronous Global KV-Aware Scheduling Across Distributed Instances for Agentic Workloads.
 - Accepted by **ATC' 26 (CCF-A, CSRanking)** (to appear).
-- Authors: Yuqi Qiu, Jinting Zou, **Zizhao Mo (Co-First author)**, Junlin Chen, Liao Chen, Huanle Xu, Guoyao Xu, Guodong Yang, Liping Zhang, Chengzhong Xu (2026).
+- Authors: Yuqi Qiu, Jinting Zou, **Zizhao Mo (Co-Corresponding author)**, Junlin Chen, Liao Chen, Huanle Xu, Guoyao Xu, Guodong Yang, Liping Zhang, Chengzhong Xu (2026).
 
 ETH: Data-Balanced Heterogeneous Pipeline Parallelism for Training Large Models
 - Accepted by **NSDI' 27 (CCF-A, CSRanking)** (to appear).
